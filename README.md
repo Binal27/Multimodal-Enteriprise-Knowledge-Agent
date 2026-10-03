@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multimodal Enterprise Knowledge Agent — Prototype v1 (plain RAG baseline)
 
 This is a deliberately simple, single-pass RAG system over PDF and PPTX
@@ -86,3 +87,6 @@ version of this same demo:
 - **No verification, conflict handling, multi-hop retrieval, tool use,
   or clarification-seeking.** These are the four agentic capabilities
   planned for the next phase, on top of this working baseline.
+=======
+# Multimodal-Enteriprise-Knowledge-Agent
+>>>>>>> 8965a89df30416eef53c34e5c350424b2f3be8e5
